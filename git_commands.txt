@@ -1,0 +1,9 @@
+*** GIT COMMANDS ***
+
+    - 'git diff' (2 arguments) - 'git diff [ID1] [ID2]'
+    - 'git log' (no arguments) - shows all commits in the repository
+    - 'git clone' (1 argument) - clones entire repository including history onto my computer - 'git clone [URL]'
+    - 'git checkout' (1 argument) - temporarily resets all files in directory to state of a specific commit
+                                  - 'git checkout [ID]'
+    - 'git init' (no arguments) - creates a new repository in the directory you're in
+    - 'git status' (no arguments) - lets you see the status of your repository i.e when the last commit was

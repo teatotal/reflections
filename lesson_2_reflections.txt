@@ -1,5 +1,11 @@
-Initialising a repository:
 What happens when you initialise a repository?
     - Using 'Git Init' allows you to create a repository out of your files.
     - You need to do this so you can commit files in the future.
     - 'Git status' lets you see the status of the repository. I.e. when the last commit was etc.
+
+How is the staging area different from the working directory?
+    - The staging area is part of git whereas the working directory is more of a snapshot of your own file directory
+    - The staging area seems like a virtual holding area of the items you want to commit.
+What value does the staging area offer?
+    - It provides a virtual environment to hold files whilst you're working on other files before commiting.
+    - This can be extremely useful if you're not yet ready to do the whole commit but know you wont be making other changes to that single file.

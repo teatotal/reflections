@@ -1,0 +1,5 @@
+Initialising a repository:
+What happens when you initialise a repository?
+    - Using 'Git Init' allows you to create a repository out of your files.
+    - You need to do this so you can commit files in the future.
+    - 'Git status' lets you see the status of the repository. I.e. when the last commit was etc.

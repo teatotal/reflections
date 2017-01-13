@@ -1,0 +1,31 @@
+How did viewing a diff between two verisons of a file help you see the bug that was introduced?
+    - By showing '+' or '-' you can see which line in each file has been affected by the changes.
+    - You can scan through the file to see changes rather than study each line of the programme.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+    - It makes it's possibly to see why bugs may have developed
+    - If a previous version worked better it's easier to go back to that version
+    
+Pros and cons of manually choosing to commit vs autosave options:
+     - Pros: Only saving after valid changes, a reasonable amount of changes to go through
+     - Cons: Can be easy to forget to save, potential to oversave, lots of potential for user error
+
+Why do some allow multiple file commits (Git) while others treat each file seperately (Google Docs):
+    - Easier to debug and understand changes if you can look at all files changed at that time
+    - Saves time comparing documents if you can look at all files changed at one time
+
+How to use 'git log; and 'git diff' to view the history of the files:
+    - Use 'git log' to load the commits with messages/dates etc.
+    - Use 'Q' to stop loading the previous commits if not needed
+    - Use down arrows as scroll and cursor won't work
+    - Use 'git diff' followed by first ID then second ID you want to compare
+    - Scroll through looking at the +'s and -'s
+    - 'Clear' clears all above code
+
+How might version control make you more confident to make changes that could break something?
+    - By using VC, you can go back to previous versions easily if something does not work. It's safe.
+
+What do I want to use Git for?
+    - Keeping track of changes in my projects
+    - Protecting myself from 'breaking' projects
+    - To learn to become more professional and advance my skills by using 'proper' methods and software

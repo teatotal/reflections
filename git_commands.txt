@@ -7,3 +7,18 @@
                                   - 'git checkout [ID]'
     - 'git init' (no arguments) - creates a new repository in the directory you're in
     - 'git status' (no arguments) - lets you see the status of your repository i.e when the last commit was
+    
+    Making commits:
+    - 'git add [File name(s)]' - Adds the file(s) to the staging area
+    - 'git status' - Allows you to see the files in the staging area
+    - 'git commit' - Opens up Text Editor and prompts for commit name, press save and commit has been made
+
+    Branches:
+    - 'git branch' - displays the names of branches available
+    - 'git branch [name]' - creates new branch
+    - 'git checkout [name]' - makes that branch active
+
+    Merging Branches:
+    - 'git merge [branch 1] [branch 2]' - merges those branches
+    - 'git branch -d [name]' - deletes branch label
+    

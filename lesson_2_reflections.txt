@@ -15,3 +15,12 @@ COMMITING:
 
 How can you use the staging area to make sure you have one commit per logical change?
     - You can see what files are waiting to be commited and can check if it makes sense or not
+
+BRANCHES:
+
+What are some situations when branches would be helpful in keeping your history organised?
+    - Great when you want two versions of the programme e.g. different difficulties, languages etc.
+
+How do branches help?
+    - Branches allow you to have access to both versions and be able to fix bugs without needing to fix bugs in two separate pieces of code
+    

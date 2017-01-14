@@ -27,4 +27,8 @@ How do branches help?
 How do diagrams help you visualise the branch structure?
     - Diagrams help you see what commits can and can't be accessed and whether a new branch may be a better option
 
+MERGING:
+
+What is the result of merging two branches together?
+    - Merges all the commits from both branches with all changes and arranges them all via timestamp
     

@@ -9,3 +9,9 @@ How is the staging area different from the working directory?
 What value does the staging area offer?
     - It provides a virtual environment to hold files whilst you're working on other files before commiting.
     - This can be extremely useful if you're not yet ready to do the whole commit but know you wont be making other changes to that single file.
+
+
+COMMITING:
+
+How can you use the staging area to make sure you have one commit per logical change?
+    - You can see what files are waiting to be commited and can check if it makes sense or not

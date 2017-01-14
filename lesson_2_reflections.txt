@@ -31,4 +31,9 @@ MERGING:
 
 What is the result of merging two branches together?
     - Merges all the commits from both branches with all changes and arranges them all via timestamp
-    
+
+Pros and cons of Git's automatic merging vs always doing it manually?
+    PROS: - Saves time when merges are obvious
+          - Commits without having to wait until you've hear back from collaborators etc.
+          - Luckily doesn't automatically commit everything
+    CONS: - Could potentially do an automatic commit and cause a bug/overwrite data
